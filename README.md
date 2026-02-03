@@ -1,4 +1,4 @@
-# System Status Monitor (monitor.sh)
+# System Status Monitor
 
 Ubuntu/Linux ターミナル向けの軽量システムステータスモニターです。
 重い監視ツール（htop等）を入れることなく、標準的なShellコマンドだけでシステムの健康状態、OOM（メモリ不足）の予兆、全物理ディスクの容量などをリアルタイムで可視化します。
