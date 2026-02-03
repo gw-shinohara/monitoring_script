@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=gnome-terminal --maximize -- bash -c "$HOME/monitor.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=System Monitor
+Comment=Start system monitor on login
