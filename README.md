@@ -91,5 +91,6 @@ echo "✅ インストール完了: 次回ログイン時から自動起動し�
 不要になった場合は以下のコマンドで削除してください。
 
 ```bash
-rm ~/monitor.sh ~/.config/autostart/monitor.desktop
+rm ~/monitor.sh
+rm ~/.config/autostart/monitor.desktop
 ```
